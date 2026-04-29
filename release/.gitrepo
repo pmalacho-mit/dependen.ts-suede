@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/dependen.ts-suede
 	branch = release
-	commit = a0ac4d05b1353ce310ef23da7582f8b68c2d81f0
-	parent = de3a4de361c41e705a5b6791c84e03dbf8ce8e93
+	commit = 2f4bb165fdc5797566904af979f4f8a7490d830e
+	parent = 3ee2a0398ea4ef773d585bba312c39d8a61809b8
 	method = merge
 	cmdver = 0.4.9
